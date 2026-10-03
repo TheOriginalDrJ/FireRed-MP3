@@ -74,7 +74,7 @@ Edit `player/` and rebuild. Pack authors can use the registration example in
 timers keep running when muted; the MP3 stream retains its own playback state.
 
 Native verification requires Windows, an extracted compatible Recomp engine,
-LÖVE DLLs and the local FireRed cache; these are not bundled:
+LÃƒâ€“VE DLLs and the local FireRed cache; these are not bundled:
 
 ```sh
 python build.py --source "/path/to/MP3PlayerFireRed"
@@ -92,3 +92,5 @@ outside these checks.
 Game names and artwork retain their respective owners' rights. This is an
 unofficial fan project, not affiliated with Nintendo, The Pokemon Company,
 Sega, Square Enix or Disney. No license grant for third-party assets is implied.
+
+Soundtrack packs 2.0.1 require the `mp3_player` mod without a version constraint. The player must still provide the soundtrack registration API; removing the version check cannot add that API to older players.

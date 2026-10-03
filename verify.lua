@@ -35,6 +35,7 @@ print('PASS standalone player opens without soundtracks through real loader/sand
 for _,id in ipairs({'sonic_advance_2','sonic_advance_3','pokemon_red_rescue_team','kingdom_hearts_com','pokemon_emerald'}) do
   local entry=add('Soundtrack-'..id)
   assert(entry.manifest.dependencySpecs[1].id=='mp3_player')
+  assert(entry.manifest.dependencySpecs[1].range==nil)
   assert(#loader.errors==0)
 end
 assert(#P.packs==5 and #P.tracks==436)
@@ -48,6 +49,12 @@ candidate.failed=nil; candidate.enabled=true
 isolated.mods.mp3_player={manifest=loader.mods.mp3_player.manifest,enabled=false}
 isolated:_enforceDependencies(); assert(candidate.failed)
 print('PASS real loader blocks packs with missing or disabled player dependency')
+for _,version in ipairs({'0.1.0','1.0.0','2.2.1','99.0.0'}) do
+  candidate.failed=nil; candidate.enabled=true
+  isolated.mods.mp3_player={manifest=Manifest.validate({id='mp3_player',name='Version fixture',version=version,entry='main.lua',api=2},'fixture'),enabled=true}
+  isolated:_enforceDependencies(); assert(not candidate.failed,version)
+end
+print('PASS soundtrack dependency accepts all tested player versions')
 print('PASS five independent packs register their own asset owners and all 436 tracks')
 local owner=P.packs[1].owner
 assert(not P:registerPack(owner,{id=P.packs[1].id}))
