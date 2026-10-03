@@ -1,0 +1,21 @@
+{
+  "id": "mp3_player",
+  "name": "FireRed MP3",
+  "version": "2.2.1",
+  "author": "TheOriginalDrJ",
+  "description": "Standalone MP3 player with soundtrack packs, cartridge browsing and registered-item mini controls.",
+  "games": [
+    "firered"
+  ],
+  "entry": "main.lua",
+  "api": 2,
+  "profile": "content",
+  "category": "Audio",
+  "priority": 190,
+  "permissions": [
+    "engine_internals"
+  ],
+  "conflicts": [
+    "mp3_player_firered"
+  ]
+}

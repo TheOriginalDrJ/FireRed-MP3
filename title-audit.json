@@ -1,0 +1,2618 @@
+[
+  {
+    "game": "sonic_advance_2",
+    "song": 1,
+    "title": "Intro",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 3,
+    "title": "Character Selection",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 4,
+    "title": "Time Attack Course Selection",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 5,
+    "title": "Course Selection 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 6,
+    "title": "Course Selection 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 7,
+    "title": "Time Attack Menu",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 9,
+    "title": "Options",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 13,
+    "title": "Leaf Forest Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 14,
+    "title": "Leaf Forest Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 15,
+    "title": "Hot Crater Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 16,
+    "title": "Hot Crater Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 17,
+    "title": "Music Plant Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 18,
+    "title": "Music Plant Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 19,
+    "title": "Ice Paradise Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 20,
+    "title": "Ice Paradise Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 21,
+    "title": "Sky Canyon Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 22,
+    "title": "Sky Canyon Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 23,
+    "title": "Techno Base Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 24,
+    "title": "Techno Base Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 25,
+    "title": "Egg Utopia Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 26,
+    "title": "Egg Utopia Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 27,
+    "title": "Xx Final Zone",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 28,
+    "title": "True Area 53",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 29,
+    "title": "Invincibility",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 31,
+    "title": "Drowning",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 32,
+    "title": "Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 33,
+    "title": "Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 34,
+    "title": "Boss Knuckles",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 35,
+    "title": "7 Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 36,
+    "title": "7 Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 37,
+    "title": "Final Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 38,
+    "title": "Final Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 42,
+    "title": "Final Ending",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 43,
+    "title": "Extra Ending",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 44,
+    "title": "Staff Credits",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 45,
+    "title": "Demo 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 46,
+    "title": "Demo 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 48,
+    "title": "Extra Demo 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 49,
+    "title": "Extra Demo 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 51,
+    "title": "Special Stage",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 52,
+    "title": "Special Stage Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 55,
+    "title": "Special Stage Result",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 57,
+    "title": "Special Stage Result Lose",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 58,
+    "title": "Battle 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 61,
+    "title": "Connection Pending",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 64,
+    "title": "Battle Lobby",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 66,
+    "title": "Battle Select Pak Mode",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 114,
+    "title": "Grinding",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 120,
+    "title": "Tails Propeller Flying",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_2",
+    "song": 254,
+    "title": "Unidentified sound effect 254",
+    "identified": false
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 0,
+    "title": "Intro",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 2,
+    "title": "Main Menu",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 3,
+    "title": "Character Select",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 4,
+    "title": "Sonic Factory",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 5,
+    "title": "Options",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 6,
+    "title": "Options Copy",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 7,
+    "title": "Chao Playground",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 8,
+    "title": "New Game Intro",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 10,
+    "title": "Overworld Route 99",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 11,
+    "title": "Overworld Sunset Hill",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 12,
+    "title": "Overworld Ocean Base",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 13,
+    "title": "Overworld Toy Kingdom",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 14,
+    "title": "Overworld Twinkle Snow",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 15,
+    "title": "Overworld Cyber Track",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 16,
+    "title": "Overworld Chaos Angel",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 17,
+    "title": "Overworld Altar Emerald",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 18,
+    "title": "Intact Music 1",
+    "identified": false
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 20,
+    "title": "Route 99 Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 21,
+    "title": "Route 99 Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 22,
+    "title": "Route 99 Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 24,
+    "title": "Sunset Hill Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 25,
+    "title": "Sunset Hill Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 26,
+    "title": "Sunset Hill Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 28,
+    "title": "Ocean Base Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 29,
+    "title": "Ocean Base Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 30,
+    "title": "Ocean Base Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 32,
+    "title": "Toy Kingdom Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 33,
+    "title": "Toy Kingdom Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 34,
+    "title": "Toy Kingdom Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 36,
+    "title": "Twinkle Snow Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 37,
+    "title": "Twinkle Snow Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 38,
+    "title": "Twinkle Snow Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 40,
+    "title": "Cyber Track Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 41,
+    "title": "Cyber Track Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 42,
+    "title": "Cyber Track Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 44,
+    "title": "Chaos Angel Act 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 45,
+    "title": "Chaos Angel Act 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 46,
+    "title": "Chaos Angel Act 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 50,
+    "title": "Battle Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 51,
+    "title": "Battle Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 52,
+    "title": "Battle 7 Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 53,
+    "title": "Battle 7 Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 54,
+    "title": "Battle Final Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 55,
+    "title": "Battle Final Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 56,
+    "title": "Battle Ex Boss",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 57,
+    "title": "Battle Ex Boss Pinch",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 58,
+    "title": "Intact Music 2",
+    "identified": false
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 59,
+    "title": "Demo",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 60,
+    "title": "Ex Demo 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 61,
+    "title": "Ex Demo 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 62,
+    "title": "Ending A",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 63,
+    "title": "Ending B",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 64,
+    "title": "Staff Credits",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 65,
+    "title": "Special Stage",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 66,
+    "title": "Special Stage Result 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 67,
+    "title": "Special Stage Result 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 68,
+    "title": "Battle Music 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 69,
+    "title": "Battle Music 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 70,
+    "title": "Battle Music 3",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 71,
+    "title": "Time Attack 1",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 72,
+    "title": "Time Attack 2",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 73,
+    "title": "Invincibility",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 75,
+    "title": "Drowning",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 76,
+    "title": "Minigame",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 78,
+    "title": "Unidentified music cue 78",
+    "identified": false
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 79,
+    "title": "Ending A Copy",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 86,
+    "title": "Boss Clear Gold",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 87,
+    "title": "Boss Clear",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 114,
+    "title": "Grinding",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 120,
+    "title": "Tails Flying",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 557,
+    "title": "Unidentified ROM cue 557",
+    "identified": false
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 605,
+    "title": "Windup Block Push",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 609,
+    "title": "Gondola",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 801,
+    "title": "Battle  6",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 802,
+    "title": "Battle  7",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 803,
+    "title": "Battle  9",
+    "identified": true
+  },
+  {
+    "game": "sonic_advance_3",
+    "song": 826,
+    "title": "Battle Grinding",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 1,
+    "title": "Rescue Team Base",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 2,
+    "title": "Friend Area Swamp",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 3,
+    "title": "Friend Area Caves",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 4,
+    "title": "Dream",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 5,
+    "title": "Benevolent Spirit",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 6,
+    "title": "Legend Of Ninetales",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 7,
+    "title": "Pokemon Square",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 8,
+    "title": "File Select",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 9,
+    "title": "Rising Fear",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 10,
+    "title": "Theres Trouble",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 11,
+    "title": "Boss Battle",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 12,
+    "title": "Welcome To The World Of Pokemon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 13,
+    "title": "A New Adventure",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 14,
+    "title": "Thunderwave Cave",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 15,
+    "title": "Sinister Woods",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 16,
+    "title": "Friend Area Pond",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 17,
+    "title": "Kecleon Shop",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 18,
+    "title": "Stop Thief",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 19,
+    "title": "World Calamity",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 20,
+    "title": "Great Canyon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 21,
+    "title": "Stormy Sea",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 22,
+    "title": "Sky Tower",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 23,
+    "title": "Sky Tower Summit",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 24,
+    "title": "The Escape",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 25,
+    "title": "Mt. Blaze",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 27,
+    "title": "Friend Area Stratos Lookout",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 28,
+    "title": "Friend Area Rainbow Peak",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 30,
+    "title": "Friend Area Deepsea Current",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 31,
+    "title": "Friend Area Seafloor Cave",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 32,
+    "title": "Battle With Rayquaza",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 33,
+    "title": "Mt. Blaze Peak",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 34,
+    "title": "Friend Area Volcanic Pit",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 35,
+    "title": "Friend Area Cryptic Cave",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 36,
+    "title": "Escape Through The Snow",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 38,
+    "title": "The Mountain Of Fire",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 39,
+    "title": "Frosty Grotto",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 40,
+    "title": "Intro",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 41,
+    "title": "Aftermath",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 42,
+    "title": "Farewell",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 43,
+    "title": "Title Screen",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 44,
+    "title": "Credits",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 45,
+    "title": "Time Of Reunion",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 100,
+    "title": "Friend Area Unused 1",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 101,
+    "title": "Heartwarming",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 102,
+    "title": "Lapis Cave",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 103,
+    "title": "A Successful Rescue",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 104,
+    "title": "Frosty Forest",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 105,
+    "title": "Friend Area Steppe",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 106,
+    "title": "Friend Area Oceanic",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 107,
+    "title": "Friend Area Field",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 108,
+    "title": "Magma Cavern",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 109,
+    "title": "Friend Area Unused 2",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 110,
+    "title": "Makuhita Dojo",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 111,
+    "title": "Mt. Thunder",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 112,
+    "title": "Friend Area Lab",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 113,
+    "title": "Silent Chasm",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 114,
+    "title": "In The Depths Of The Pit",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 115,
+    "title": "Mt. Freeze",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 116,
+    "title": "Friend Area Wilds",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 117,
+    "title": "Friend Area Legendary Island",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 118,
+    "title": "Friend Area Southern Island",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 119,
+    "title": "Friend Area Enclosed Island",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 120,
+    "title": "Mt. Steel",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 121,
+    "title": "Friend Area Forest",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 122,
+    "title": "Friend Area Final Island",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 123,
+    "title": "Mt. Freeze Peak",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 124,
+    "title": "Magma Cavern Pit",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 125,
+    "title": "Tiny Woods",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 126,
+    "title": "Mt. Thunder Peak",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 127,
+    "title": "Friend Area Healing Forest",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 128,
+    "title": "Monster House",
+    "identified": true
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 491,
+    "title": "Unidentified ROM cue 491",
+    "identified": false
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 500,
+    "title": "Unidentified ROM cue 500",
+    "identified": false
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 704,
+    "title": "Unidentified ROM cue 704",
+    "identified": false
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 775,
+    "title": "Unidentified ROM cue 775",
+    "identified": false
+  },
+  {
+    "game": "pokemon_red_rescue_team",
+    "song": 882,
+    "title": "Unidentified ROM cue 882",
+    "identified": false
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 1,
+    "title": "To Our Surprise",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 2,
+    "title": "Welcome to Wonderland",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 3,
+    "title": "Decisive Battle",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 4,
+    "title": "Conflict",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 5,
+    "title": "A Friend",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 6,
+    "title": "Dearly Beloved",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 7,
+    "title": "Strange Memories",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 8,
+    "title": "A Very Small Wish",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 9,
+    "title": "Monstrous Monstro",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 10,
+    "title": "Captain Hook's Pirate Ship",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 11,
+    "title": "Pirate's Gigue",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 12,
+    "title": "Hand in Hand",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 13,
+    "title": "Traverse Town",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 14,
+    "title": "Organization Battle",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 15,
+    "title": "This is Halloween",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 16,
+    "title": "Spooks of Halloween Town",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 17,
+    "title": "An Adventure in Atlantica",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 18,
+    "title": "The Organization",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 19,
+    "title": "Namine",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 20,
+    "title": "Go for It!",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 21,
+    "title": "Olympus Coliseum",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 22,
+    "title": "Under the Sea",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 23,
+    "title": "Arabian Dream",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 24,
+    "title": "Tender Moment",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 25,
+    "title": "Hollow Bastion",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 26,
+    "title": "Scherzo di notte",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 27,
+    "title": "Truth",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 28,
+    "title": "What You See Is Not Real",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 29,
+    "title": "Final Battle of Reverse Rebirth",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 30,
+    "title": "An Unknown Person",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 31,
+    "title": "A Day in Agrabah",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 32,
+    "title": "Winnie the Pooh",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 33,
+    "title": "Destiny Islands",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 34,
+    "title": "Bounce-o-rama",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 35,
+    "title": "Rival Battle",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 36,
+    "title": "Twilight Town",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 37,
+    "title": "Battle of Another Side",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 38,
+    "title": "Castle Oblivion",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 39,
+    "title": "Castle Oblivion Battle",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 40,
+    "title": "Night of Fate",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 41,
+    "title": "Decisive Battle 2",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 42,
+    "title": "Final Battle",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 43,
+    "title": "Twilight Town Battle",
+    "identified": true
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 149,
+    "title": "Unidentified ROM cue 149",
+    "identified": false
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 356,
+    "title": "Unidentified ROM cue 356",
+    "identified": false
+  },
+  {
+    "game": "kingdom_hearts_com",
+    "song": 648,
+    "title": "Unidentified ROM cue 648",
+    "identified": false
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 49,
+    "title": "Truck Move",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 350,
+    "title": "Littleroot Test",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 351,
+    "title": "Gsc Route38",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 352,
+    "title": "Caught",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 353,
+    "title": "Victory Wild",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 354,
+    "title": "Victory Gym Leader",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 355,
+    "title": "Victory League",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 356,
+    "title": "C Comm Center",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 357,
+    "title": "Gsc Pewter",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 358,
+    "title": "C Battle Legend Beast",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 359,
+    "title": "Route101",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 360,
+    "title": "Route110",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 361,
+    "title": "Route120",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 362,
+    "title": "Petalburg",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 363,
+    "title": "Oldale",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 364,
+    "title": "Gym",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 365,
+    "title": "Surf",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 366,
+    "title": "Petalburg Woods",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 373,
+    "title": "Lilycove Museum",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 374,
+    "title": "Route122",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 375,
+    "title": "Oceanic Museum",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 377,
+    "title": "Evolution",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 379,
+    "title": "Encounter Girl",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 380,
+    "title": "Encounter Male",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 381,
+    "title": "Abandoned Ship",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 382,
+    "title": "Fortree",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 383,
+    "title": "Birch Lab",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 384,
+    "title": "B Tower Ruby Sapphire",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 385,
+    "title": "Encounter Swimmer",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 386,
+    "title": "Cave Of Origin",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 388,
+    "title": "Awaken Legend",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 392,
+    "title": "Roulette",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 393,
+    "title": "Link Contest P1",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 394,
+    "title": "Link Contest P2",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 395,
+    "title": "Link Contest P3",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 396,
+    "title": "Link Contest P4",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 397,
+    "title": "Encounter Rich",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 398,
+    "title": "Verdanturf",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 399,
+    "title": "Rustboro",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 400,
+    "title": "Pokemon Center",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 401,
+    "title": "Route104",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 402,
+    "title": "Route119",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 403,
+    "title": "Cycling",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 404,
+    "title": "Pokemon Mart",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 405,
+    "title": "Littleroot",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 406,
+    "title": "Mt. Chimney",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 407,
+    "title": "Encounter Female",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 408,
+    "title": "Lilycove",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 409,
+    "title": "Desert",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 410,
+    "title": "Help",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 411,
+    "title": "Underwater",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 412,
+    "title": "Victory Trainer",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 413,
+    "title": "Title",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 414,
+    "title": "Intro",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 415,
+    "title": "Encounter May",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 416,
+    "title": "Encounter Intense",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 417,
+    "title": "Encounter Cool",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 418,
+    "title": "Route113",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 419,
+    "title": "Encounter Aqua",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 420,
+    "title": "Follow Me",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 421,
+    "title": "Encounter Brendan",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 422,
+    "title": "Ever Grande",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 423,
+    "title": "Encounter Suspicious",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 424,
+    "title": "Victory Aqua Magma",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 425,
+    "title": "Cable Car",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 426,
+    "title": "Game Corner",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 427,
+    "title": "Dewford",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 428,
+    "title": "Safari Zone",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 429,
+    "title": "Victory Road",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 430,
+    "title": "Aqua Magma Hideout",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 431,
+    "title": "Sailing",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 432,
+    "title": "Mt. Pyre",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 433,
+    "title": "Slateport",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 434,
+    "title": "Mt. Pyre Exterior",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 435,
+    "title": "School",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 436,
+    "title": "Hall Of Fame",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 437,
+    "title": "Fallarbor",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 438,
+    "title": "Sealed Chamber",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 439,
+    "title": "Contest Winner",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 440,
+    "title": "Contest",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 441,
+    "title": "Encounter Magma",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 442,
+    "title": "Intro Battle",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 443,
+    "title": "Abnormal Weather",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 444,
+    "title": "Weather Groudon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 445,
+    "title": "Sootopolis",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 446,
+    "title": "Contest Results",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 447,
+    "title": "Hall Of Fame Room",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 448,
+    "title": "Trick House",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 449,
+    "title": "Encounter Twins",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 450,
+    "title": "Encounter Elite Four",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 451,
+    "title": "Encounter Hiker",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 452,
+    "title": "Contest Lobby",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 453,
+    "title": "Encounter Interviewer",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 454,
+    "title": "Encounter Champion",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 455,
+    "title": "Credits",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 456,
+    "title": "End",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 457,
+    "title": "B Frontier",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 458,
+    "title": "B Arena",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 461,
+    "title": "B Pyramid",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 462,
+    "title": "B Pyramid Top",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 463,
+    "title": "B Palace",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 464,
+    "title": "Rayquaza Appears",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 465,
+    "title": "B Tower",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 467,
+    "title": "B Dome",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 468,
+    "title": "B Pike",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 469,
+    "title": "B Factory",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 470,
+    "title": "Battle Rayquaza",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 471,
+    "title": "Battle Frontier Brain",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 472,
+    "title": "Battle Mew",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 473,
+    "title": "B Dome Lobby",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 474,
+    "title": "Battle Wild",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 475,
+    "title": "Battle Aqua Magma",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 476,
+    "title": "Battle Trainer",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 477,
+    "title": "Battle Gym Leader",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 478,
+    "title": "Battle Champion",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 479,
+    "title": "Battle Regi",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 480,
+    "title": "Battle Kyogre Groudon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 481,
+    "title": "Battle Rival",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 482,
+    "title": "Battle Elite Four",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 483,
+    "title": "Battle Aqua Magma Leader",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 484,
+    "title": "FireRed Follow Me",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 485,
+    "title": "FireRed Game Corner",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 486,
+    "title": "FireRed Rocket Hideout",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 487,
+    "title": "FireRed Gym",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 489,
+    "title": "FireRed Intro Fight",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 490,
+    "title": "FireRed Title",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 491,
+    "title": "FireRed Cinnabar",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 492,
+    "title": "FireRed Lavender",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 494,
+    "title": "FireRed Cycling",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 495,
+    "title": "FireRed Encounter Rocket",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 496,
+    "title": "FireRed Encounter Girl",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 497,
+    "title": "FireRed Encounter Boy",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 498,
+    "title": "FireRed Hall Of Fame",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 499,
+    "title": "FireRed Viridian Forest",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 500,
+    "title": "FireRed Mt. Moon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 501,
+    "title": "FireRed Pokemon Mansion",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 502,
+    "title": "FireRed Credits",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 503,
+    "title": "FireRed Route1",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 504,
+    "title": "FireRed Route24",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 505,
+    "title": "FireRed Route3",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 506,
+    "title": "FireRed Route11",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 507,
+    "title": "FireRed Victory Road",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 508,
+    "title": "FireRed Battle Gym Leader",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 509,
+    "title": "FireRed Battle Trainer",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 510,
+    "title": "FireRed Battle Wild",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 511,
+    "title": "FireRed Battle Champion",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 512,
+    "title": "FireRed Pallet",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 513,
+    "title": "FireRed Oak Lab",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 514,
+    "title": "FireRed Oak",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 515,
+    "title": "FireRed Pokemon Center",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 516,
+    "title": "FireRed Ss Anne",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 517,
+    "title": "FireRed Surf",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 518,
+    "title": "FireRed Pokemon Tower",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 519,
+    "title": "FireRed Silph",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 520,
+    "title": "FireRed Fuchsia",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 521,
+    "title": "FireRed Celadon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 522,
+    "title": "FireRed Victory Trainer",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 523,
+    "title": "FireRed Victory Wild",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 524,
+    "title": "FireRed Victory Gym Leader",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 525,
+    "title": "FireRed Vermillion",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 526,
+    "title": "FireRed Pewter",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 527,
+    "title": "FireRed Encounter Rival",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 528,
+    "title": "FireRed Rival Exit",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 534,
+    "title": "FireRed Caught",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 535,
+    "title": "FireRed New Game Instruct",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 536,
+    "title": "FireRed New Game Intro",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 538,
+    "title": "FireRed Pokemon Jump",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 539,
+    "title": "FireRed Union Room",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 540,
+    "title": "FireRed Net Center",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 541,
+    "title": "FireRed Mystery Gift",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 542,
+    "title": "FireRed Berry Pick",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 543,
+    "title": "FireRed Sevii Cave",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 544,
+    "title": "FireRed Teachy Tv Show",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 545,
+    "title": "FireRed Sevii Route",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 546,
+    "title": "FireRed Sevii Dungeon",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 547,
+    "title": "FireRed Sevii 123",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 548,
+    "title": "FireRed Sevii 45",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 549,
+    "title": "FireRed Sevii 67",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 550,
+    "title": "FireRed Pokemon Flute",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 551,
+    "title": "FireRed Battle Deoxys",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 552,
+    "title": "FireRed Battle Mewtwo",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 553,
+    "title": "FireRed Battle Legend",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 554,
+    "title": "FireRed Encounter Gym Leader",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 555,
+    "title": "FireRed Encounter Deoxys",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 556,
+    "title": "FireRed Trainer Tower",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 557,
+    "title": "FireRed Slow Pallet",
+    "identified": true
+  },
+  {
+    "game": "pokemon_emerald",
+    "song": 558,
+    "title": "FireRed Teachy Tv Menu",
+    "identified": true
+  }
+]
